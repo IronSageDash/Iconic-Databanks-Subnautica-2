@@ -60,11 +60,11 @@ Works with all supported game languages.
 
 ### Databank Overview
 
-![Databank Overview](assets/screenshot-1.png)
+![Databank Overview](assets/screenshot-1.webp)
 
 ### Icon Preview
 
-![Icon Preview](assets/screenshot-2.png)
+![Icon Preview](assets/screenshot-2.webp)
 
 ---
 
